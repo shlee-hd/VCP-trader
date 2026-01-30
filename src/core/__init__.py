@@ -1,0 +1,1 @@
+"""VCP Trader Core Package"""
