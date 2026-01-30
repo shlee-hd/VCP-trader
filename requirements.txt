@@ -22,6 +22,10 @@ python-telegram-bot>=20.0
 ta>=0.11.0
 plotly>=5.18.0
 
+# Backtesting
+finance-datareader>=0.9.50
+pyarrow>=14.0.0
+
 # Utilities
 schedule>=1.2.0
 python-dotenv>=1.0.0
